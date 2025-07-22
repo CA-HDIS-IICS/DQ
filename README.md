@@ -11,8 +11,8 @@ However, the lastest modification is on 7/21/2025.
 
 Vien will update to this repository.  
 
-If you want to download, please feel free to download.
+If you want to download, please feel free to download and modificating via branches
 
-If you want to upload, please send file to Vien.  
+If you want to upload or pull request, please send files to Vien.  
 
 He will verify the code and dashboard before commit to repository to prevent wrong commitment.
